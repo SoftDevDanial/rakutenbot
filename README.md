@@ -13,4 +13,6 @@ A simple bot to do some automation inside rakuten since rakuten does not have an
 
 
 
-**THIS IS AN UNCOMPLETED WORK. TEST AT YOUR OWN RISK. I WILL NOT BE RESPONSIBLE FOR ANY LOSSES DUE TO THE USE OF THIS BOT. PLEASE USE WISELY**
+**THIS IS AN UNCOMPLETED WORK. TEST AT YOUR OWN RISK. I WILL NOT BE RESPONSIBLE FOR ANY LOSSES DUE TO THE USE OF THIS SCRIPT. PLEASE USE WISELY**
+
+_**Contact me if you want to sponsor the development of this project**_
